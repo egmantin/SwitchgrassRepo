@@ -1,0 +1,13 @@
+name: SwitchgrassRepo
+title: SwitchgrassRepo
+username:
+account: egmantin
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 2503101
+bundleId: 3316060
+url: https://egmantin.shinyapps.io/SwitchgrassRepo/
+when: 1593101932.09216
+asMultiple: FALSE
+asStatic: FALSE
+ignoredFiles: 01-template.R|README.md
